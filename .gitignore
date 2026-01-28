@@ -54,3 +54,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+# visualisations générées
+*.png
+*.jpg
+*.dot
